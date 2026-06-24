@@ -15,6 +15,7 @@ Below is the step-by-step lifecycle followed to complete this healthcare analyti
 
 ```text
 [Data Audit] ➔ [Data Cleaning] ➔ [Missing Value Handling] ➔ [Outlier Detection] ➔ [Feature Engineering] ➔ [Exploratory Data Analysis (EDA)] ➔ [Final Insight Report]
+
 ## 📂 Repository Structure
 
 ```text

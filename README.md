@@ -11,3 +11,11 @@ This project focuses on analyzing operational, financial, and clinical data for 
 │   └── high_risk_patient_list.csv  <- List of high-risk patients
 ├── Healthcare_Python_Analytics_Project_Student_Friendly.ipynb  <- Solved project notebook
 └── README.md                       <- Project documentation (This file)
+
+
+Tech Stack & Workflow
+Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Workflow: Data Audit ➔ Data Cleaning ➔ Missing Value Handling ➔ Outlier Detection ➔ Feature Engineering ➔ Exploratory Data Analysis (EDA) ➔ Final Insight Report.

@@ -3,7 +3,20 @@
 ## 📌 Project Overview & Business Scenario
 This project focuses on analyzing operational, financial, and clinical data for a hospital chain. The objective is to provide data-driven answers to management regarding patient admission patterns, 30-day readmission risks, primary cost drivers, data entry errors, and operational efficiencies.
 
+## 🛠️ Tech Stack & Workflow
+
+### 💻 Tech Stack Used
+- **Programming Language:** Python
+- **Data Manipulation:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+
+### 🔄 Data Analysis Workflow
+Below is the step-by-step lifecycle followed to complete this healthcare analytics project:
+
+```text
+[Data Audit] ➔ [Data Cleaning] ➔ [Missing Value Handling] ➔ [Outlier Detection] ➔ [Feature Engineering] ➔ [Exploratory Data Analysis (EDA)] ➔ [Final Insight Report]
 ## 📂 Repository Structure
+
 ```text
 ├── data/
 │   ├── hospital_summary.csv        <- Aggregated hospital metrics
